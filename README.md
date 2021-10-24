@@ -1,4 +1,4 @@
-# Bhargava Gaggainpali - Portfolio
+# Rajkumar Kuppuswami - Portfolio
 
 # [Project 1: Loan Prediction Process](https://github.com/bgaggainpali/bgaggainpali_DSC680)
 
