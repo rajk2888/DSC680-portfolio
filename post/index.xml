@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Bhargava Gaggainpali</title>
+    <link>https://bgaggainpali.github.io/Bhargava-Gaggainpali-portfolio/post/</link>
+    <description>Recent content in Projects on Bhargava Gaggainpali</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 May 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://bgaggainpali.github.io/Bhargava-Gaggainpali-portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project III: Predicting Churn for Bank Customers</title>
+      <link>https://bgaggainpali.github.io/Bhargava-Gaggainpali-portfolio/post/chapter-3/</link>
+      <pubDate>Mon, 03 May 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://bgaggainpali.github.io/Bhargava-Gaggainpali-portfolio/post/chapter-3/</guid>
+      <description>In financial industry, banks are playing important role in challenging times like now, with COVID pandemic across the globe. People are losing jobs and financial institutions are facing more Customer churn in Bank Accounts. The increase in Customer Churn rate will result in significant financial loss to commercial banks. It is very critical for lending institutions like banks to have a prediction model to be able to predict customers churn to better serve the customers and reduce the churn.</description>
+    </item>
+    
+    <item>
+      <title>Project II: Credit Card Default Prediction</title>
+      <link>https://bgaggainpali.github.io/Bhargava-Gaggainpali-portfolio/post/chapter-2/</link>
+      <pubDate>Tue, 20 Apr 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://bgaggainpali.github.io/Bhargava-Gaggainpali-portfolio/post/chapter-2/</guid>
+      <description>In financial industry, banks are playing important role in challenging times like now, with COVID pandemic across the globe. People are losing jobs and financial institutions are facing more delinquency rate on credit card loans. The increase in delinquency rate will result in significant financial loss to commercial banks. It is very critical for lending institutions like banks to have a prediction model to be able to predict customers for credit card default.</description>
+    </item>
+    
+    <item>
+      <title>Project I: Loan Approval Prediction Process</title>
+      <link>https://bgaggainpali.github.io/Bhargava-Gaggainpali-portfolio/post/chapter-1/</link>
+      <pubDate>Wed, 10 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://bgaggainpali.github.io/Bhargava-Gaggainpali-portfolio/post/chapter-1/</guid>
+      <description>In financial industry, deciding on a loan application, whether to approve or not is a two-edged sword. Bank should not lose business by denying a legitimate customer, who can repay. Also, it should not approve loan to in-eligible customer. Banks are playing important role in challenging times like now, with COVID pandemic across the globe.
+With the enhancement in the banking sector lots of people are applying for bank loans but the bank has its limited assets which it has to grant to limited people only, so finding out to whom the loan can be granted which will be a safer option for the bank is a typical process.</description>
+    </item>
+    
+    <item>
+      <title>Project V: Air Travel &amp; Safety</title>
+      <link>https://bgaggainpali.github.io/Bhargava-Gaggainpali-portfolio/post/chapter-5/</link>
+      <pubDate>Sun, 07 Feb 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://bgaggainpali.github.io/Bhargava-Gaggainpali-portfolio/post/chapter-5/</guid>
+      <description>Air travel is one of the important models of the transportation and it has made many journeys possible. Many places, where the road journey is not possible, air travel opened the options to explore. With journey on ships which could take weeks and months, we can reach in few hours using air travel.
+With one recent incident, we see the speculation all over the social media people showing stats of all the airline accidents and many discussions about the reliability of the total air travel and exploring the options of how to avoid air travel.</description>
+    </item>
+    
+    <item>
+      <title>Project IV: Telecom Customer Churn</title>
+      <link>https://bgaggainpali.github.io/Bhargava-Gaggainpali-portfolio/post/chapter-4/</link>
+      <pubDate>Thu, 07 Jan 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://bgaggainpali.github.io/Bhargava-Gaggainpali-portfolio/post/chapter-4/</guid>
+      <description>Customer churn is a major problem and one of the most important concerns for every company. Retaining an existing customer is many times more effective thanks gaining new customers. Generally, people only switch to a different company only when the service is not to the level of expectation in one or the other factor when compared to competitors, more than getting attracted to the specials and offers which are offered by the other companies.</description>
+    </item>
+    
+    <item>
+      <title>Project VI: Mental Health Prediction</title>
+      <link>https://bgaggainpali.github.io/Bhargava-Gaggainpali-portfolio/post/chapter-6/</link>
+      <pubDate>Sat, 14 Nov 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://bgaggainpali.github.io/Bhargava-Gaggainpali-portfolio/post/chapter-6/</guid>
+      <description>As recently I have received a form from my employer to complete the survey on Mental health conditions. Because of the Corona Virus situation, everyone is working remotely and restricting themselves not to go out other than to get groceries. Spending most of the time at home, now a days leading to depression and other mental health issue.
+I would like to explore to see what factors are influencing the mental health conditions by relating different factors variables and find which categories of people are more effected.</description>
+    </item>
+    
+    <item>
+      <title>Project VII: Monroe County Crash Data</title>
+      <link>https://bgaggainpali.github.io/Bhargava-Gaggainpali-portfolio/post/chapter-7/</link>
+      <pubDate>Wed, 14 Oct 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://bgaggainpali.github.io/Bhargava-Gaggainpali-portfolio/post/chapter-7/</guid>
+      <description>I have selected the ‘Monroe County Crash Data’ for the final project as part of the course. This dataset is the list of all the car crash or accidents happened in the county from 2003 to 2015. I have considered the data for the year 2015 for analysis as part of CSV file (one of the data sources). Retrieved the Holiday list from the give website to get the list of the holidays for the year of 2015 (source website data).</description>
+    </item>
+    
+    <item>
+      <title>Project VIII: Diamonds</title>
+      <link>https://bgaggainpali.github.io/Bhargava-Gaggainpali-portfolio/post/chapter-8/</link>
+      <pubDate>Sun, 10 May 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://bgaggainpali.github.io/Bhargava-Gaggainpali-portfolio/post/chapter-8/</guid>
+      <description>With the Stock market fall because of the Corona virus situation, I was surprised to see how the gold and diamonds prices are rising. I guess people are looking for safe investments, which is causing the prices go high. This generally happens when the markets are uncertain.
+I got interested to do some data analysis regarding the diamonds. As I do not have much information about diamonds, I search about the data and found a dataset provided by Shivam Agarwal in kaggle.</description>
+    </item>
+    
+    <item>
+      <title>Project X: Python</title>
+      <link>https://bgaggainpali.github.io/Bhargava-Gaggainpali-portfolio/post/chapter-10/</link>
+      <pubDate>Sun, 15 Dec 2019 11:25:05 -0400</pubDate>
+      
+      <guid>https://bgaggainpali.github.io/Bhargava-Gaggainpali-portfolio/post/chapter-10/</guid>
+      <description>Python is an interpreted, high-level and general-purpose programming language. Python&amp;rsquo;s design philosophy emphasizes code readability with its notable use of significant indentation. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects
+Using Python, worked on several tasks which can show the capabilities and features of the python programming.
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project IX: Data Analytics on Taxi Fare Prediction / Optimization</title>
+      <link>https://bgaggainpali.github.io/Bhargava-Gaggainpali-portfolio/post/chapter-9/</link>
+      <pubDate>Sun, 10 Nov 2019 11:25:05 -0400</pubDate>
+      
+      <guid>https://bgaggainpali.github.io/Bhargava-Gaggainpali-portfolio/post/chapter-9/</guid>
+      <description>In the current ‘Data’ world, prediction is all based on the analysis of data available and collected. Taxi company’s like Uber &amp;amp; Lyft, heavily depend on the data which is generated by their drivers to provide reliable service. Starting with general data like Pickup and destination is collected when the ride is booked and the demand is calculated based on the patterns (day, time, events..).
+Taxi drivers generate data even when they are not carrying any passengers like inferences on traffic patterns.</description>
+    </item>
+    
+  </channel>
+</rss>
