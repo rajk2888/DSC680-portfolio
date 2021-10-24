@@ -1,44 +1,42 @@
 # Rajkumar Kuppuswami - Portfolio
 
-# [Project 1: Loan Prediction Process](https://github.com/bgaggainpali/bgaggainpali_DSC680)
+# Project 1: Prediction of Cardiac Disorder
 
-In financial industry, deciding on a loan application, whether to approve or not is a two-edged sword.  Bank should not lose business by denying a legitimate customer, who can repay.  Also, it should not approve loan to in-eligible customer.  Banks are playing important role in challenging times like now, with COVID pandemic across the globe.
-With the enhancement in the banking sector lots of people are applying for bank loans but the bank has its limited assets which it has to grant to limited people only, so finding out to whom the loan can be granted which will be a safer option for the bank is a typical process. In this paper we try to predict the customer, whether he is eligible for the loan approval and to reduce this risk factor of bank efforts and assets.
+The project's purpose is to create an algorithm that can accurately identify individuals based on their risk of developing heart disease utilizing the available healthcare parameters.
 
-![](/images/Bank_Loan_Approval_Feature_Importance.JPG)
 
-# [Project 2: Telecom Customer Churn](https://github.com/bgaggainpali/bgaggainpali_DSC630)
 
-Customer churn is a major problem and one of the most important concerns for every company. Retaining an existing customer is many times more effective thanks gaining new customers. Generally, people only switch to a different company only when the service is not to the level of expectation in one or the other factor when compared to competitors, more than getting attracted to the specials and offers which are offered by the other companies. 
-As customer churn directly effects the revenues of the companies, companies are seeking to develop means to predict potential customer to churn. Therefore, finding factors that increase customer churn is important to take necessary actions to reduce this churn and retain the customers.
+# Project 2: NBA Salary Prediction 
 
-# [Project 3: Air Travel & Safety](https://github.com/bgaggainpali/DSC640_Data_Presentation_And_Visualization)
+I will be using the NBA player statistics dataset obtained from Kaggle for this project. The statistics are listed on the website as coming from 2017-2018 team rosters, although upon closer inspection, the rosters appear to be from 2016-2017.
+There were 88 missing salary values in the downloaded data. Apart from two, all of these were taken via HoopsHype.com.
+There are 52 variables in the dataset. Not all of these are significant to projecting player pay, and the technical method section following will provide a full breakdown of the variables employed.
 
-Air travel is one of the important models of the transportation and it has made many journeys possible. Many places, where the road journey is not possible, air travel opened the options to explore. With journey on ships which could take weeks and months, we can reach in few hours using air travel.
-With one recent incident, we see the speculation all over the social media people showing stats of all the airline accidents and many discussions about the reliability of the total air travel and exploring the options of how to avoid air travel.  I strongly feel the air travel is more safer and reliable modes of transportation. And waned to present the stats on how the number of incidents reduced over last few years. Just not to base on one incident and speculate about whole industry.
 
-# [Project 4: Mental Health Prediction](https://github.com/bgaggainpali/bgaggainpali_DSC550)
+# Project 3: COVID-19 Rates
+
+The procedure was also tied to the fact that this current state of mind continues to effect our lives. We've reached a point where the number of deaths is about the same as it was at the start.
+
+# Project 4: Mental Health Prediction
 
 As recently I have received a form from my employer to complete the survey on Mental health conditions. Because of the Corona Virus situation, everyone is working remotely and restricting themselves not to go out other than to get groceries. Spending most of the time at home, now a days leading to depression and other mental health issue. 
 I would like to explore to see what factors are influencing the mental health conditions by relating different factors variables and find which categories of people are more effected.
 
-# [Project 5: Monroe County Crash Data](https://github.com/bgaggainpali/bgaggainpali_DSC540)
+# Project 5: COVID-19 Rates
 
-I have selected the ‘Monroe County Crash Data’ for the final project as part of the course. This dataset is the list of all the car crash or accidents happened in the county from 2003 to 2015. I have considered the data for the year 2015 for analysis as part of CSV file (one of the data sources). Retrieved the Holiday list from the give website to get the list of the holidays for the year of 2015 (source website data). Using API to the Weather details to get the weather conditions of the county for the whole year of 2015 (source API data). Using data from 3 data sources, I tried to find the trend of the car accidents across the year to see if the Holiday season or the weather conditions are relating to the increase or decrease of the car accidents.
+The procedure was also tied to the fact that this current state of mind continues to effect our lives. We've reached a point where the number of deaths is about the same as it was at the start.
 
-# [Project 6: Diamonds](https://github.com/bgaggainpali/bgaggainpali_DSC530)
+# Project 6: Analysis of Chopped Injuries' Success
 
-With the Stock market fall because of the Corona virus situation, I was surprised to see how the gold and diamonds prices are rising. I guess people are looking for safe investments, which is causing the prices go high. This generally happens when the markets are uncertain.
-I got interested to do some data analysis regarding the diamonds. As I do not have much information about diamonds, I search about the data and found a dataset provided by Shivam Agarwal in kaggle. This dataset contains a lot of details and properties of the diamond like the price, shape, and other attributes. 
+Chopped is a popular Food Network competition cooking show in which four judges compete to create a dish in three rounds after being given a basket of random items to integrate into each dish. A panel of three judges is assigned to each episode and is in charge of choosing which chef will be removed or ‘Chopped' from the competition.
 
-# [Project 7: Data Analytics on Taxi Fare Prediction / Optimization](https://github.com/bgaggainpali/bgaggainpali_DSC500)
+# Project 7: Customer Banking Behavior Prediction
 
-In the current ‘Data’ world, prediction is all based on the analysis of data available and collected. Taxi company’s like Uber & Lyft, heavily depend on the data which is generated by their drivers to provide reliable service. Starting with general data like Pickup and destination is collected when the ride is booked and the demand is calculated based on the patterns (day, time, events..). 
-Taxi drivers generate data even when they are not carrying any passengers like inferences on traffic patterns. Data Science helps in prediction of supply and demand algorithm analysis, surge pricing, better cars, estimating fares, driver ratings and importantly for autonomous car research, tracking the location of drivers, monitoring driver’s speed, motion and acceleration and identifying if a driver is working for a competing cab sharing company. 
+The project's goal is to look into the success rate of a Portuguese bank's direct campaign marketing in terms of customer retention, which is what this data set is about. It's critical to figure out what factors influence the direct campaign's outcome and which factors are required for a positive result that leads to a subscription.
 
-# [Project 8: Python](https://github.com/bgaggainpali/bgaggainpali_DSC510)
+# Project 8: Detecting Credit Card Fraud
 
-Python is an interpreted, high-level and general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant indentation. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects 
-Using Python, worked on several tasks which can show the capabilities and features of the python programming. 
-
+The enclosed data analysis project aims to build a machine learning model that has the capability to predict, with great accuracy, when a credit card transaction presents as being fraudulent. Beginning with exploratory data analysis, I will use machine learning algorithms to understand and work through these data. By exploring the data set and understanding trends, I will build and train multiple models to predict which transactions are fraudulent, ultimately aiming to test and select the most accurate model for this set of data.
+Income analysis in relation to many variables
+This study looks at income statistics from the United States and how it relates to other factors. Variables in the used data set describe individuals as well as their yearly income level, which is either greater than or less than $50,000. The ability of variables to predict income level is evaluated. The factors are analyzed, and two of them are shown to be very good at predicting income level based on their own levels. More research is needed to see if less accurate variables may accurately predict the same measurement.
 
