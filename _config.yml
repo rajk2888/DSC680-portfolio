@@ -1,3 +1,4 @@
+theme: jekyll-theme-cayman
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://rajk2888.github.io/Rajkumar_Portfolio.github.io/"
@@ -14,7 +15,6 @@ header_text: Data Science Portfolio<br/>
 header_feature_image: assets/img/pexels/triangular.jpeg
 footer_text: >
   Copyright 2020
-
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
