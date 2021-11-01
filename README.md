@@ -6,7 +6,7 @@
 
 # Links to Information:
 
-[About Me](https://github.com/rajk2888/DSC680-portfolio/blob/main/About Me.md)
+[AboutMe](https://github.com/rajk2888/DSC680-portfolio/blob/main/AboutMe.md)
 
 [Work](https://github.com/rajk2888)
 
