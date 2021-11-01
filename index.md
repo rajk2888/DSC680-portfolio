@@ -8,21 +8,20 @@
 
 [AboutMe](https://github.com/rajk2888/DSC680-portfolio/blob/main/AboutMe.md)
 
-[Work](https://github.com/rajk2888)
+[Work](https://github.com/rajk2888/DSC680-portfolio)
 
 [GitHub](https://github.com/rajk2888)
 
-# Project 1: Prediction of Cardiac Disorder
 
-The project's purpose is to create an algorithm that can accurately identify individuals based on their risk of developing heart disease utilizing the available healthcare parameters.
-
-
-
-# Project 2: NBA Salary Prediction 
+# [Project 1: NBA Salary Prediction] (https://github.com/rajk2888/DSC680-portfolio/tree/main/630/Week12)
 
 I will be using the NBA player statistics dataset obtained from Kaggle for this project. The statistics are listed on the website as coming from 2017-2018 team rosters, although upon closer inspection, the rosters appear to be from 2016-2017.
 There were 88 missing salary values in the downloaded data. Apart from two, all of these were taken via HoopsHype.com.
 There are 52 variables in the dataset. Not all of these are significant to projecting player pay, and the technical method section following will provide a full breakdown of the variables employed.
+
+# Project 2: Prediction of Cardiac Disorder
+
+The project's purpose is to create an algorithm that can accurately identify individuals based on their risk of developing heart disease utilizing the available healthcare parameters.
 
 
 # Project 3: COVID-19 Rates
