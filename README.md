@@ -2,7 +2,7 @@
 
 # A collection of data science projects throughout my M.S. program in data science at Bellevue University.
 
-# Contact: rajk2888@gmail.com
+# Contact: rkuppuswami@my365.bellevue.edu / rajk2888@gmail.com
 
 # Links to Information:
 
