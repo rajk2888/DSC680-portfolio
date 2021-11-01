@@ -1,5 +1,17 @@
 # Rajkumar Kuppuswami - Portfolio
 
+# A collection of data science projects throughout my M.S. program in data science at Bellevue University.
+
+# Contact: rkuppuswami@my365.bellevue.edu / rajk2888@gmail.com
+
+# Links to Information:
+
+[AboutMe](https://github.com/rajk2888/DSC680-portfolio/blob/main/AboutMe.md)
+
+[Work](https://github.com/rajk2888)
+
+[GitHub](https://github.com/rajk2888)
+
 # Project 1: Prediction of Cardiac Disorder
 
 The project's purpose is to create an algorithm that can accurately identify individuals based on their risk of developing heart disease utilizing the available healthcare parameters.
