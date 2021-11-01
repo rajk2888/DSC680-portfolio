@@ -13,7 +13,7 @@
 [GitHub](https://github.com/rajk2888)
 
 
-# [Project 1: NBA Salary Prediction] (https://github.com/rajk2888/DSC680-portfolio/tree/main/630/Week12)
+# [Project 1: NBA Salary Prediction](https://github.com/rajk2888/DSC680-portfolio/tree/main/630/Week12)
 
 I will be using the NBA player statistics dataset obtained from Kaggle for this project. The statistics are listed on the website as coming from 2017-2018 team rosters, although upon closer inspection, the rosters appear to be from 2016-2017.
 There were 88 missing salary values in the downloaded data. Apart from two, all of these were taken via HoopsHype.com.
