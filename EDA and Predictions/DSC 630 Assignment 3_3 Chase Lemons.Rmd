@@ -1,0 +1,120 @@
+---
+title: "DSC 630 Assignment 3.3"
+author: "Chase Lemons"
+date: "March 12, 2019"
+output: html_document
+---
+
+
+```{r message = FALSE, echo=TRUE}
+
+library(dplyr)
+
+library(knitr)
+
+library(ggplot2)
+
+library(class)
+
+
+dodgers_data_path <- "http://content.bellevue.edu/cst/dsc/630/dodgers.csv"
+
+
+dodgers_data <- read.delim(dodgers_data_path, header = T, sep = ",", dec = "." )
+
+
+#options(scipen = 999)
+
+
+```
+
+
+### Premise
+
+***
+
+
+For this week’s assignment we're going to use Dodgers Major League Baseball data from 2012. The data file you will be using is contained in the dodgers.csv file. I would like you to determine what night would be the best to run a marketing promotion to increase attendance. You will want to use TRAIN. As a reminder, the training set is the data we fit our model on. Use a combination of R and Python to accomplish this assignment. From this data, at a minimum, you should be able to demonstrate the following:
+
+Box plots
+
+Scatter plots
+
+Regression Model
+
+
+
+***
+
+
+### Data Understanding
+
+
+For this section we will try to look at what data we have and start to get an understanding for it.
+
+```{r} 
+
+head(dodgers_data)
+
+```
+
+
+```{r} 
+
+summary(dodgers_data)
+
+```
+
+
+From the problem statement we want to know what night would be the best to run a marketing promotion to increase attendance. So we can see that we have data from days and nights. Specifically we want to look at the night information. 
+
+```{r} 
+
+dodgers_night_data <- dodgers_data %>% filter(day_night == "Night")
+
+```
+
+
+Now we will look at some plots to try and see if we can pull out some insights to help us set up a model.
+
+```{r} 
+
+ggplot(dodgers_night_data, aes(day_of_week,attend)) + geom_boxplot()
+
+ggplot(dodgers_night_data, aes(month,attend)) + geom_boxplot()
+
+ggplot(dodgers_night_data, aes(opponent,attend)) + geom_boxplot()
+
+ggplot(dodgers_night_data, aes(skies,attend)) + geom_boxplot()
+
+ggplot(dodgers_night_data, aes(cap,attend)) + geom_boxplot()
+
+ggplot(dodgers_night_data, aes(shirt,attend)) + geom_boxplot()
+
+ggplot(dodgers_night_data, aes(fireworks,attend)) + geom_boxplot()
+
+ggplot(dodgers_night_data, aes(bobblehead,attend)) + geom_boxplot()
+
+ggplot(dodgers_night_data, aes(day, attend)) + geom_point()
+
+ggplot(dodgers_night_data, aes(temp, attend)) + geom_point()
+
+
+
+```
+
+Looking at the boxplot of day of the week versus attendance and the summary of the data. We generally have the same amount of data for each day of the week except for Thursday. In addition to this, we have two outliers on Monday, one for low and one for high attendance. Besides the outliers, the range and average is the lowest out of the other weeks. Wednesday has a very wide range of attendance and a lower average. However It can have a very high attendance. As well, Thursday has a very wide range but generally a higher average. The rest of the days out of the week have a smaller range or they generally have a higher attendance on average.
+
+The next visual that tells me something is that clear and cloudy skies don't make a difference. As well, cap and shirt have practically no yes's so I don't think I can use this accurately to predict something.
+
+Now there were enough responses for fireworks and bobbleheads to potentially be used for prediction purposes. Fireworks had a smaller range but the same average as when there were no fireworks. When there were bobbleheads present, the attendance was very high.
+
+For the scatterplots, there seems to be no correlation between day and attendance. However, there does seem to be a positive correlation between temp and attendance. This correlation is `r round(cor(dodgers_night_data$attend,dodgers_night_data$temp),2)`, which means there is a weak positive correlation between temperature and attendance.
+
+From an initial exploration of the data, I think that attendance seems the weakest or most variable on Mondays, Wednesdays and Thursdays. As well, for a marketing scheme it might be most effective to give away bobbleheads. Variables we can't control are the weather or time of the year, but we can plan to try and make the dodger game more appealing. Now we will go to Python to try and set up a model.
+
+
+
+
+
+
